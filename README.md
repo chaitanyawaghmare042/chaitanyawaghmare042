@@ -68,13 +68,7 @@ To contribute to the Power, Energy and Industrial Automation sector as an Electr
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyawaghmare042&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chaitanyawaghmare042&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyawaghmare042&layout=compact&theme=tokyonight)
 
 ---
 
