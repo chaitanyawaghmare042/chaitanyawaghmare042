@@ -1,5 +1,5 @@
 <div align="center">
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyawaghmare042&show_icons=true)
 # ⚡ Chaitanya Waghmare
 
 ### 🎓 Electrical Engineering Undergraduate | COEP Technological University
