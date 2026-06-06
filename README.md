@@ -23,7 +23,7 @@
 - Underground Cable Installation
 - ABC Cable Conversion
 
-💻 Learning:
+💻Developing projects using MATLAB, Simulink and AutoCAD Electrical
 - MATLAB & Simulink
 - AutoCAD Electrical
 - PLC Programming
